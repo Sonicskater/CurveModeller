@@ -1,10 +1,7 @@
-## README.md
 
-Devon Hockely 30045270
+![Demo](unknown.png)
 
 ## Description
-
-Built from Tutorial 20 simple curves and my own 2nd assignment.
 
 Done with 2 seperate windows as it is still just 2 viewports, and it made the logic much easier to conatin by essentially writing 2 different programs.
 
